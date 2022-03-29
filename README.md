@@ -1,2 +1,1 @@
-# front-end
-All html/css tasks
+# ALL FRONT-END
